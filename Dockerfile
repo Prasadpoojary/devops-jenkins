@@ -1,4 +1,4 @@
-FROM docker.io/openjdk:21-jdk
+FROM eclipse-temurin:21-jdk
 WORKDIR /myapp
 COPY ./target/DevopsDemo.jar /myapp
 EXPOSE 9595
