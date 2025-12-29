@@ -1,4 +1,4 @@
-FROM openjdk:21
+FROM openjdk:21-jdk
 WORKDIR /myapp
 COPY ./target/DevopsDemo.jar /myapp
 EXPOSE 9595
