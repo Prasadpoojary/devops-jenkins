@@ -11,8 +11,8 @@
 	<groupId>com.prasad</groupId>
 	<artifactId>devops</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>devops</name>
+    <packaging>jar</packaging>
 	<description>Devops jenkins project</description>
 	<url/>
 	<licenses>
